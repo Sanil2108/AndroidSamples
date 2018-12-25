@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Animations</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis, nisl vitae congue laoreet, urna ipsum fermentum urna, at tincidunt felis lacus nec leo. Praesent at pellentesque lorem. Duis blandit arcu dolor, eu aliquet nunc sagittis in. Ut vel pharetra libero. Curabitur scelerisque faucibus sem sed vulputate. Donec rutrum pharetra tellus, ac iaculis tortor molestie vitae. Maecenas viverra accumsan risus ac pharetra. Vivamus eget orci quam. Integer eu mauris id odio interdum commodo. Ut et orci nunc. Sed nec blandit massa. Proin a turpis euismod, tincidunt sapien a, volutpat purus. Donec consequat felis in ligula euismod ornare. Etiam venenatis placerat sapien eu semper. Proin ut quam vitae augue egestas iaculis. Pellentesque auctor viverra diam, ac molestie risus malesuada ac.
+
+Aliquam erat volutpat. Proin cursus in nunc non viverra. Quisque commodo, eros eu condimentum ultrices, lectus est vestibulum arcu, id auctor nisl mauris vel justo. Nullam lobortis velit eget urna finibus sagittis. Aliquam pulvinar ultricies sem, eu rhoncus magna. Suspendisse accumsan nec mauris et tristique. Etiam ac pellentesque augue, non accumsan ante.
+
+Sed finibus, mauris molestie tristique sagittis, ante odio rutrum metus, et tincidunt leo ex eu neque. Quisque blandit odio magna, vel fermentum leo elementum nec. Integer sapien tellus, egestas eu justo id, malesuada tristique diam. Aenean gravida est at velit consectetur, vitae feugiat purus finibus. Ut volutpat commodo massa, non commodo turpis varius ut. Vivamus rhoncus arcu a nibh porttitor, ut interdum mi interdum. Aenean ac congue ante. Nullam ullamcorper nibh nec euismod gravida. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam dapibus dapibus turpis non iaculis. Nam venenatis, ipsum tempus faucibus lobortis, turpis mi pulvinar urna, nec egestas diam urna a urna.
+
+</string>
+</resources>
