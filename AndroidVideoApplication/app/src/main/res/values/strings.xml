@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidVideoApplication</string>
+
+    <string name="video_btn">Video record button</string>
+    <string name="camera_btn">Camera Capture button</string>
+</resources>
